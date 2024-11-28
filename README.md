@@ -1,4 +1,6 @@
 Esplorazione Dettagliata dei Log di Sicurezza di Windows
+
+
 Lo strumento Visualizzatore Eventi di Windows offre una panoramica completa delle attività registrate dal sistema operativo, suddivise in categorie come "Applicazione", "Sistema" e "Sicurezza". Quest'ultima è particolarmente rilevante per monitorare e migliorare la protezione del sistema.
 
 Struttura del Registro di Sicurezza
